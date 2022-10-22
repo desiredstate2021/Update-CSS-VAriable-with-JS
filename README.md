@@ -1,2 +1,3 @@
 # Update-CSS-VAriable-with-JS
-![intergalactic](https://user-images.githubusercontent.com/80214475/197335495-47d73238-822b-4e36-bb46-3f7d20af295c.png)
+
+![Update Css Variable JS](https://user-images.githubusercontent.com/80214475/197335510-10277e8e-e937-41b3-b460-c974af537233.png)
